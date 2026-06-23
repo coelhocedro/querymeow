@@ -9,11 +9,11 @@ Aplicação web simplificada para gerenciamento pessoal e colaborativo de filmes
 
 ## Repositório
 
-https://github.com/bcoelho21/QueryMeow
+https://github.com/coelhocedro/QueryMeow
 
 ## Quadro de acompanhamento
 
-https://github.com/bcoelho21/QueryMeow/issues
+https://github.com/coelhocedro/QueryMeow/issues
 
 ## Tecnologias previstas
 
