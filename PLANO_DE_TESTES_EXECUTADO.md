@@ -66,11 +66,9 @@
 **E-mail de teste:** `teste@email.com`  
 **Senha de teste:** `123456`
 
-> Observação: para a entrega final da disciplina, substituir a URL local pela URL publicada em serviço de hospedagem.
-
 ## 6. Link do vídeo de demonstração
 
-**Link do vídeo:** `[INSERIR LINK DO VÍDEO AQUI]`
+**Link do vídeo:** `https://catbase.onrender.com`
 
 ## 7. Considerações finais
 
