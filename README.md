@@ -47,6 +47,10 @@ Tabelas criadas:
 - `Filme`
 - `Avaliacao`
 
+## Link da URL publicada
+https://catbase.onrender.com
+
+
 ## Como usar na demonstração
 
 1. Entrar com `teste@email.com` e senha `123456`.
